@@ -8,15 +8,16 @@ git status
 ```
 curl google.com
 ```
-2. Otworz
+
+2. Sprawdz czy działa
 ```
-curl onet.pl
+curl onet
 ```
-3. Wlaczyc komputer
-lalalala
-4.
-zielony
-5.
-fioletowy
-6.
-pomaranczowy
+lllll
+8. kkkk
+## Deploy
+
+Komponent jest instalowany na instalacji AWS.
+```
+deploy_aws
+```
