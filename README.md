@@ -12,3 +12,6 @@ curl google.com
 ```
 curl onet.pl
 ```
+3. Wlaczyc komputer
+lalalala
+4. 
