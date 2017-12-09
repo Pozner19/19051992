@@ -14,4 +14,9 @@ curl onet.pl
 ```
 3. Wlaczyc komputer
 lalalala
-4. 
+4.
+zielony
+5.
+fioletowy
+6.
+pomaranczowy
